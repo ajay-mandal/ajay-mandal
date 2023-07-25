@@ -22,6 +22,8 @@
 <p align="center">
 <a href="https://api.badgr.io/public/assertions/MlORbUJsToqqB8N5Ayd9cg"><img width="120px" height="120px" src="https://api.badgr.io/public/assertions/MlORbUJsToqqB8N5Ayd9cg/image"></a></p>
 <!--START_SECTION:badges-->
+[![Google Cybersecurity Certificate](https://images.credly.com/size/110x110/images/0bf0f2da-a699-4c82-82e2-56dcf1f2e1c7/image.png)](http://www.credly.com/badges/6db7f010-ee0a-4e8a-b033-149da864d681 "Google Cybersecurity Certificate")
+[![API Penetration Testing - Certificate of Completion](https://images.credly.com/size/110x110/images/44a5fe44-52e6-45c2-ae9a-41fd9183c81d/image.png)](http://www.credly.com/badges/534b8ad4-451b-4ade-abc6-ae00166fe9b3 "API Penetration Testing - Certificate of Completion")
 <!--END_SECTION:badges-->
 
 
