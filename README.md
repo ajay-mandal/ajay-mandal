@@ -8,23 +8,21 @@
 <a href="https://www.youtube.com/c/zexa_yt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="zexa_yt" height="45" width="50" /></a>
 <a href="https://www.hackerrank.com/lordzexa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="lordzexa" height="45" width="50" /></a>
 <a href="https://www.leetcode.com/zexa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="zexa" height="40" width="50" /></a>
-<a href="https://twitter.com/lord_zexa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="lord_zexa" height="45" width="50" /></a>
 </p>
 
 ## Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32">
 <p align="center">
-  <a href="https://skillicons.dev">
+  <a>
     <img src="https://skillicons.dev/icons?i=python,c,bash,django,flask,postman,docker,appwrite,firebase,aws,gcp,github,git,gitlab,mysql,html,css,javascript,arduino,laravel,linux,raspberrypi,&perline=11" />
   </a>
 </p>
 
 ## MY BADGES 🪪
 <p align="center">
-<a href="https://api.badgr.io/public/assertions/MlORbUJsToqqB8N5Ayd9cg"><img width="120px" height="120px" src="https://api.badgr.io/public/assertions/MlORbUJsToqqB8N5Ayd9cg/image"></a></p>
-<!--START_SECTION:badges-->
-[![Google Cybersecurity Certificate](https://images.credly.com/size/110x110/images/0bf0f2da-a699-4c82-82e2-56dcf1f2e1c7/image.png)](http://www.credly.com/badges/6db7f010-ee0a-4e8a-b033-149da864d681 "Google Cybersecurity Certificate")
-[![API Penetration Testing - Certificate of Completion](https://images.credly.com/size/110x110/images/44a5fe44-52e6-45c2-ae9a-41fd9183c81d/image.png)](http://www.credly.com/badges/534b8ad4-451b-4ade-abc6-ae00166fe9b3 "API Penetration Testing - Certificate of Completion")
-<!--END_SECTION:badges-->
+<a href="https://www.credly.com/badges/6db7f010-ee0a-4e8a-b033-149da864d681/public_url"><img width="130px" height="130px" src="https://github.com/0xAjayMandal/0xAjayMandal/blob/main/badges/google-cybersecurity-certificate.png"></a>
+<a href="https://api.badgr.io/public/assertions/MlORbUJsToqqB8N5Ayd9cg"><img width="120px" height="120px" src="https://api.badgr.io/public/assertions/MlORbUJsToqqB8N5Ayd9cg/image"></a>
+<a href="https://www.credly.com/badges/534b8ad4-451b-4ade-abc6-ae00166fe9b3/public_url"><img width="120px" height="120px" src="https://github.com/0xAjayMandal/0xAjayMandal/blob/main/badges/api-penetration-testing-certificate.png"></a>
+</p>
 
 
 ## My Github Stats <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width="30"> 
