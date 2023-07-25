@@ -20,9 +20,9 @@
 
 <blockquote class="badgr-badge" style="font-family: Helvetica, Roboto, &quot;Segoe UI&quot;, Calibri, sans-serif;"><a href="https://api.badgr.io/public/assertions/MlORbUJsToqqB8N5Ayd9cg"><img width="120px" height="120px" src="https://api.badgr.io/public/assertions/MlORbUJsToqqB8N5Ayd9cg/image"></a></blockquote>
 
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/ajaymandal"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="ajaymandal" /></a><a href="https://ko-fi.com/ajaymandal"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="ajaymandal" /></a></p><br><br>
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=0xajaymandal&show_icons=true&locale=en" alt="0xajaymandal" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=0xajaymandal&" alt="0xajaymandal" /></p>
+
+<h3 align="left">Support:</h3>
+<p><a href="https://www.buymeacoffee.com/ajaymandal"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="ajaymandal" /></a><a href="https://ko-fi.com/ajaymandal"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="ajaymandal" /></a></p><br><br>
