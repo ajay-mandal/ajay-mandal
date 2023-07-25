@@ -21,8 +21,8 @@
 ## MY BADGES 🪪
 <p align="center">
 <a href="https://api.badgr.io/public/assertions/MlORbUJsToqqB8N5Ayd9cg"><img width="120px" height="120px" src="https://api.badgr.io/public/assertions/MlORbUJsToqqB8N5Ayd9cg/image"></a></p>
-<!--START_SECTION:badges-->
-<!--END_SECTION:badges-->
+<!--START_SECTION:badges-
+<!--END_SECTION:badges-
 
 ## My Github Stats <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width="30"> 
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=0xajaymandal&theme=dark" alt="0xajaymandal" /></p>
