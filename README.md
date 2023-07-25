@@ -19,7 +19,6 @@
 ## MY BADGES
 
 <blockquote class="badgr-badge" style="font-family: Helvetica, Roboto, &quot;Segoe UI&quot;, Calibri, sans-serif;"><a href="https://api.badgr.io/public/assertions/MlORbUJsToqqB8N5Ayd9cg"><img width="120px" height="120px" src="https://api.badgr.io/public/assertions/MlORbUJsToqqB8N5Ayd9cg/image"></a></blockquote>
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="6db7f010-ee0a-4e8a-b033-149da864d681" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/ajaymandal"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="ajaymandal" /></a><a href="https://ko-fi.com/ajaymandal"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="ajaymandal" /></a></p><br><br>
