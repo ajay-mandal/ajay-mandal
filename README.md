@@ -29,4 +29,4 @@
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=0xajaymandal&theme=dark" alt="0xajaymandal" /></p>
 
 ## Support 🎗️
-<p><a href="https://www.buymeacoffee.com/ajaymandal"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="200" alt="ajaymandal" /></a><a href="https://ko-fi.com/ajaymandal"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="200" alt="ajaymandal" /></a></p><br><br>
+<p><a href="https://www.buymeacoffee.com/ajaymandal"> <img align="left" src="https://www.buymeacoffee.com/assets/img/guidelines/download-assets-sm-1.svg" height="50" width="200" alt="ajaymandal" /></a><a href="https://ko-fi.com/ajaymandal"> <img align="left" src="https://uploads-ssl.webflow.com/5c14e387dab576fe667689cf/61e11ddcc39341db4958c5cc_Supportbutton.png" height="50" width="200" alt="ajaymandal" /></a></p><br><br>
