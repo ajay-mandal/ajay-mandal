@@ -1,5 +1,5 @@
 <h1 align="center">Hi <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="50" height="50">, I'm Ajay Kumar Mandal</h1>
-<h3 align="center">Cybersecurity enthusiastic and Penetration Tester</h3>
+<h3 align="center">Cybersecurity Enthusiastic and Penetration Tester</h3>
 
 ## Connect with me 🔗
 <p align="center">
