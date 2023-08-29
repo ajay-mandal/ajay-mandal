@@ -22,14 +22,14 @@
 
 ## MY BADGES 🪪
 <p align="left">
-<a href="https://www.credly.com/badges/6db7f010-ee0a-4e8a-b033-149da864d681/public_url"><img width="130px" height="130px" src="https://github.com/0xAjayMandal/0xAjayMandal/blob/main/badges/google-cybersecurity-certificate.png"></a>
+<a href="https://www.credly.com/badges/6db7f010-ee0a-4e8a-b033-149da864d681/public_url"><img width="130px" height="130px" src="https://github.com/ajay-mandal/ajay-mandal/blob/main/badges/google-cybersecurity-certificate.png"></a>
 <a href="https://api.badgr.io/public/assertions/MlORbUJsToqqB8N5Ayd9cg"><img width="120px" height="120px" src="https://api.badgr.io/public/assertions/MlORbUJsToqqB8N5Ayd9cg/image"></a>
-<a href="https://www.credly.com/badges/534b8ad4-451b-4ade-abc6-ae00166fe9b3/public_url"><img width="120px" height="120px" src="https://github.com/0xAjayMandal/0xAjayMandal/blob/main/badges/api-penetration-testing-certificate.png"></a>
+<a href="https://www.credly.com/badges/534b8ad4-451b-4ade-abc6-ae00166fe9b3/public_url"><img width="120px" height="120px" src="https://github.com/ajay-mandal/ajay-mandal/blob/main/badges/api-penetration-testing-certificate.png"></a>
 </p>
 
 
 ## My Github Stats <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width="30"> 
-<p align="left"><img src="https://github-readme-streak-stats.herokuapp.com/?user=0xajaymandal&theme=modern-lilac2" alt="0xajaymandal" /></p>
+<p align="left"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ajay-mandal&theme=modern-lilac2" alt="ajay-mandal" /></p>
 
 ## Support 🎗
 <a href="https://ko-fi.com/ajaymandal"><img align="left" src="https://uploads-ssl.webflow.com/5c14e387dab576fe667689cf/61e11ddcc39341db4958c5cc_Supportbutton.png" height="47" width="180" alt="ajaymandal" /></a></p><br><br>
