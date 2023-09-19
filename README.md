@@ -1,6 +1,5 @@
 <h1>Hi 👋, I'm Ajay Kumar Mandal</h1>
-<h3>Cybersecurity Enthusiastic and Penetration Tester</h3>
-- 🔭 I’m currently working on Google IT Automation with Python Professional Certificate<br/>
+<h3>Cybersecurity Enthusiastic and Dev</h3>
 - 🌱 I’m currently learning Security and DevOps Technologies<br/>
 - 😄 Pronouns: He/Him<br/>
 
@@ -25,6 +24,8 @@
 <a href="https://www.credly.com/badges/6db7f010-ee0a-4e8a-b033-149da864d681/public_url"><img width="130px" height="130px" src="https://github.com/ajay-mandal/ajay-mandal/blob/main/badges/google-cybersecurity-certificate.png"></a>
 <a href="https://api.badgr.io/public/assertions/MlORbUJsToqqB8N5Ayd9cg"><img width="120px" height="120px" src="https://api.badgr.io/public/assertions/MlORbUJsToqqB8N5Ayd9cg/image"></a>
 <a href="https://www.credly.com/badges/534b8ad4-451b-4ade-abc6-ae00166fe9b3/public_url"><img width="120px" height="120px" src="https://github.com/ajay-mandal/ajay-mandal/blob/main/badges/api-penetration-testing-certificate.png"></a>
+<a href="https://www.credly.com/badges/752940e9-962c-4807-bf49-26c1d24e992c/public_url"><img width="120px" height="120px" src="https://github.com/ajay-mandal/ajay-mandal/blob/main/badges/google-it-automation-certificate.png"></a>
+  
 </p>
 
 
