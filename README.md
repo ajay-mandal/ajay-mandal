@@ -1,6 +1,6 @@
 <h1>Hi 👋, I'm Ajay Kumar Mandal</h1>
 <h3>Full-Stack Developer</h3>
-- 🌱 I’m currently learning MERN Stack and DevOps @Cohort2.0<br/>
+- 🌱 I’m currently learning Full-Stack and DevOps @Cohort2.0<br/>
 - 😄 Pronouns: He/Him<br/>
 
 ## Connect with me 🔗
@@ -13,7 +13,7 @@
 ## Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32">
 <p align="left">
   <a>
-    <img src="https://skillicons.dev/icons?i=python,mongo,react,express,nodejs,tailwindcss,postman,docker,html,css,javascript,aws,gcp,github,git,gitlab,arduino,linux&perline=9" />
+    <img src="https://skillicons.dev/icons?i=python,mongo,postgres,prisma,react,express,nodejs,tailwindcss,nextjs,postman,docker,html,css,javascript,aws,cloudflare,github,git,gitlab,linux&perline=10" />
   </a>
 </p>
 
