@@ -3,19 +3,22 @@
 - 🌱 I’m currently learning Full-Stack and DevOps @Cohort2.0<br/>
 - 😄 Pronouns: He/Him<br/>
 
-## Connect with me 🔗
-<p align="left">
-<a href="https://linkedin.com/in/ajay-mandal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ajay-mandal" height="40" width="50" /></a>
-<a href="https://www.youtube.com/c/zexa_yt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="zexa_yt" height="45" width="50" /></a>
-<a href="https://www.leetcode.com/zexa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="zexa" height="40" width="50" /></a>
-</p>
+## Tech Stack <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32">
+<h3>Language</h3>
 
-## Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32">
-<p align="left">
-  <a>
-    <img src="https://skillicons.dev/icons?i=python,mongo,postgres,prisma,react,express,nodejs,tailwindcss,nextjs,postman,docker,html,css,javascript,aws,cloudflare,github,git,gitlab,linux&perline=10" />
-  </a>
-</p>
+[![My Skills](https://skillicons.dev/icons?i=ts,js,bash,python)](https://skillicons.dev)
+
+<h3>Frameworks</h3>
+
+[![My Skills](https://skillicons.dev/icons?i=react,express,nodejs,nextjs,tailwind,zod)](https://skillicons.dev)
+
+<h3>Database & ORM</h3>
+
+[![My Skills](https://skillicons.dev/icons?i=mongo,mysql,postgres,firebase,prisma,redis)](https://skillicons.dev)
+
+<h3>DevOps Tools & Cloud</h3>
+
+[![My Skills](https://skillicons.dev/icons?i=docker,git,linux,postman,aws,gcp,cloudflare)](https://skillicons.dev)
 
 ## MY BADGES 🪪
 <p align="left">
