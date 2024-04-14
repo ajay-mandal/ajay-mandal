@@ -34,7 +34,7 @@
 ## My Github Stats <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width="30">   
 <div style="display: flex; justify-content: space-between; align-items: center;">    
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=ajay-mandal&theme=modern-lilac2" alt="ajay-mandal" />
-  &nbsp;&nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;
 <img src="https://github-readme-stats.vercel.app/api?username=ajay-mandal&theme=midnight-purple&hide_border=true&bg_color=0c0c0c&include_all_commits=true&count_private=true" alt="ajay-mandal" />
 </div>
 
