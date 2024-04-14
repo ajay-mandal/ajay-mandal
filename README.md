@@ -4,7 +4,7 @@
 -🔭 Currently, I am working on improving my **Devops skills**.<br>- 🌱 I am currently learning **Advance Backend**.<br>- 👯 I am interested in collaborating on **open-source projects**.<br>- 💬 Feel free to ask me about **React, NextJS, Express, Hono, Serverless Backend**.<br>- 📫 You can reach me at &nbsp;ajayrox48@gmail.com<br>- 😄 Pronouns: **He/Him**<br><br>
 [![](https://visitcount.itsvg.in/api?id=ajay-mandal&label=Profile%20Views&color=0&icon=8&pretty=false)](https://visitcount.itsvg.in)
 
-## Tech Stack <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32">
+## Tech Stack <img src = "https://github.com/ajay-mandal/ajay-mandal/blob/2dcbdc4abcd89dfca1ec2b174239cd7ff9f66593/badges/243199547-42077049-1939-493e-9a19-47ca5db36643.gif" width="80">
 
 <h3>Language</h3>
 
@@ -22,7 +22,7 @@
 
 [![My Skills](https://skillicons.dev/icons?i=docker,git,linux,postman,aws,gcp,cloudflare)](https://skillicons.dev)
 
-## MY BADGES 🪪
+## MY BADGES <img src="https://github.com/ajay-mandal/ajay-mandal/blob/cf6b3bdd749f4a36edd57fd52e08fffe05fb9a5a/badges/243078651-2c0eef4b-7b75-42bd-9722-4bea97a2d532.gif" width="40" >
 <p align="left">
 <a href="https://www.credly.com/badges/752940e9-962c-4807-bf49-26c1d24e992c/public_url"><img width="120px" height="120px" src="https://github.com/ajay-mandal/ajay-mandal/blob/main/badges/google-it-automation-certificate.png"></a>
 <a href="https://api.badgr.io/public/assertions/MlORbUJsToqqB8N5Ayd9cg"><img width="120px" height="120px" src="https://api.badgr.io/public/assertions/MlORbUJsToqqB8N5Ayd9cg/image"></a>
