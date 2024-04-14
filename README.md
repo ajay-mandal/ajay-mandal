@@ -1,9 +1,11 @@
-<h1>Hi 👋, I'm Ajay Kumar Mandal</h1>
-<h3>Full-Stack Developer</h3>
-- 🌱 I’m currently learning Full-Stack and DevOps @Cohort2.0<br/>
-- 😄 Pronouns: He/Him<br/>
+![Github readme banner](https://github.com/ajay-mandal/ajay-mandal/blob/65e60f8c7ada091df0041030455e984f5b23cef3/badges/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
+## 👋About Me:
+
+-🔭 Currently, I am working on improving my **Devops skills**.<br>- 🌱 I am currently learning **Advance Backend**.<br>- 👯 I am interested in collaborating on **open-source projects**.<br>- 💬 Feel free to ask me about **React, NextJS, Express, Hono, Serverless Backend**.<br>- 📫 You can reach me at &nbsp;ajayrox48@gmail.com<br>- 😄 Pronouns: **He/Him**<br><br>
+[![](https://visitcount.itsvg.in/api?id=ajay-mandal&label=Profile%20Views&color=0&icon=8&pretty=false)](https://visitcount.itsvg.in)
 
 ## Tech Stack <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32">
+
 <h3>Language</h3>
 
 [![My Skills](https://skillicons.dev/icons?i=ts,js,bash,python)](https://skillicons.dev)
@@ -29,8 +31,11 @@
 </p>
 
 
-## My Github Stats <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width="30"> 
-<p align="left"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ajay-mandal&theme=modern-lilac2" alt="ajay-mandal" /></p>
+## My Github Stats <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width="30">   
+<div style="display: flex; justify-content: space-between; align-items: center;">    
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ajay-mandal&theme=modern-lilac2" alt="ajay-mandal" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://github-readme-stats.vercel.app/api?username=ajay-mandal&theme=midnight-purple&hide_border=true&bg_color=0c0c0c&include_all_commits=true&count_private=true" alt="ajay-mandal" />
+</div>
 
-## Support 🎗
-<a href="https://ko-fi.com/ajaymandal"><img align="left" src="https://uploads-ssl.webflow.com/5c14e387dab576fe667689cf/61e11ddcc39341db4958c5cc_Supportbutton.png" height="47" width="180" alt="ajaymandal" /></a></p><br><br>
+![Readme Finish](https://github.com/ajay-mandal/ajay-mandal/blob/65e60f8c7ada091df0041030455e984f5b23cef3/badges/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif)
