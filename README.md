@@ -2,7 +2,8 @@
 ## 👋About Me:
 
 -🔭 Currently, I am working on improving my **Devops skills**.<br>- 🌱 I am currently learning **Advance Backend**.<br>- 👯 I am interested in collaborating on **open-source projects**.<br>- 💬 Feel free to ask me about **React, NextJS, Express, Hono, Serverless Backend**.<br>- 📫 You can reach me at &nbsp;ajayrox48@gmail.com<br>- 😄 Pronouns: **He/Him**<br><br>
-[![](https://visitcount.itsvg.in/api?id=ajay-mandal&label=Profile%20Views&color=0&icon=8&pretty=false)](https://visitcount.itsvg.in)
+[![](https://komarev.com/ghpvc/?username=ajay-mandal&style=flat-square&color=blue)](https://ajaymandal.me)
+
 
 ## Tech Stack <img src = "https://github.com/ajay-mandal/ajay-mandal/blob/2dcbdc4abcd89dfca1ec2b174239cd7ff9f66593/badges/243199547-42077049-1939-493e-9a19-47ca5db36643.gif" width="80">
 
