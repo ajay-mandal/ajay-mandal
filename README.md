@@ -30,6 +30,7 @@
 
 [![My Skills](https://skillicons.dev/icons?i=docker,git,linux,postman,aws,gcp,cloudflare)](https://skillicons.dev)
 
+
 ## MY BADGES <img src="https://github.com/ajay-mandal/ajay-mandal/blob/cf6b3bdd749f4a36edd57fd52e08fffe05fb9a5a/badges/243078651-2c0eef4b-7b75-42bd-9722-4bea97a2d532.gif" width="40" >
 <p align="left">
 <a href="https://www.credly.com/badges/752940e9-962c-4807-bf49-26c1d24e992c/public_url"><img width="120px" height="120px" src="https://github.com/ajay-mandal/ajay-mandal/blob/main/badges/google-it-automation-certificate.png"></a>
