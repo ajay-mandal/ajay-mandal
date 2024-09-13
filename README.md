@@ -1,7 +1,7 @@
 ![Github banner](https://github.com/ajay-mandal/ajay-mandal/blob/65e60f8c7ada091df0041030455e984f5b23cef3/badges/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
 ## 👋About Me:
 
--🔭 Currently, I am working on improving my **Devops skills**.<br>- 🌱 I am currently learning **Advance Backend and Go**.<br>- 👯 I am interested in collaborating on **open-source projects**.<br>- 💬 Feel free to ask me about **React, NextJS, Express, Hono, Serverless Backend**.<br>- 📫 You can reach me at &nbsp;ajayrox48@gmail.com<br>- 😄 Pronouns: **He/Him**<br><br>
+-🔭 Currently, I am working on improving my **Devops skills**.<br>- 🌱 I am currently learning **Advance Backend Communication**.<br>- 👯 I am interested in collaborating on **open-source projects**.<br>- 📫 You can reach me at &nbsp;ajayrox48@gmail.com<br>- 😄 Pronouns: **He/Him**<br><br>
 
 <p align="left">
   <p>Visitor count</b></br>
@@ -34,7 +34,6 @@
 ## MY BADGES <img src="https://github.com/ajay-mandal/ajay-mandal/blob/cf6b3bdd749f4a36edd57fd52e08fffe05fb9a5a/badges/243078651-2c0eef4b-7b75-42bd-9722-4bea97a2d532.gif" width="40" >
 <p align="left">
 <a href="https://www.credly.com/badges/752940e9-962c-4807-bf49-26c1d24e992c/public_url"><img width="120px" height="120px" src="https://github.com/ajay-mandal/ajay-mandal/blob/main/badges/google-it-automation-certificate.png"></a>
-<a href="https://api.badgr.io/public/assertions/MlORbUJsToqqB8N5Ayd9cg"><img width="120px" height="120px" src="https://api.badgr.io/public/assertions/MlORbUJsToqqB8N5Ayd9cg/image"></a>
 <a href="https://www.credly.com/badges/6db7f010-ee0a-4e8a-b033-149da864d681/public_url"><img width="130px" height="130px" src="https://github.com/ajay-mandal/ajay-mandal/blob/main/badges/google-cybersecurity-certificate.png"></a>
   
 </p>
