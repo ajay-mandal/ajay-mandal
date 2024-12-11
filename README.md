@@ -1,7 +1,7 @@
 ![Github banner](https://github.com/ajay-mandal/ajay-mandal/blob/65e60f8c7ada091df0041030455e984f5b23cef3/badges/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
 ## 👋About Me:
 
--🔭 Currently, I am working on improving my **Devops skills**.<br>- 🌱 I am currently learning **Advance Backend Communication**.<br>- 👯 I am interested in collaborating on **open-source projects**.<br>- 📫 You can reach me at &nbsp;ajayrox48@gmail.com<br>- 😄 Pronouns: **He/Him**<br><br>
+-🔭 Currently, I am working on improving my **Backend and Devops skills**.<br>- 🌱 I am currently learning **Go and Kubernetes**.<br>- 👯 I am interested in collaborating on **open-source projects**.<br>- 📫 You can reach me at &nbsp;ajayrox48@gmail.com<br>- 😄 Pronouns: **He/Him**<br><br>
 
 <p align="left">
   <p>Visitor count</b></br>
