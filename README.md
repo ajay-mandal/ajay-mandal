@@ -20,7 +20,7 @@
 
 <h3>Frameworks</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=react,express,nodejs,nextjs,tailwind)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,express,nodejs,nextjs,tailwind,nestjs,fastapi)](https://skillicons.dev)
 
 <h3>Database & ORM</h3>
 
