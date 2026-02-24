@@ -3,21 +3,5 @@
 
 -🔭 Currently, I am working remotely with an AI-agent driven startup
 
-
-## Tech Stack <img src = "https://github.com/ajay-mandal/ajay-mandal/blob/2dcbdc4abcd89dfca1ec2b174239cd7ff9f66593/badges/243199547-42077049-1939-493e-9a19-47ca5db36643.gif" width="80">
-
-<h3>Language</h3>
-
-[![My Skills](https://skillicons.dev/icons?i=ts,js,bash,python)](https://skillicons.dev)
-
-<h3>Frameworks</h3>
-
-[![My Skills](https://skillicons.dev/icons?i=react,express,nodejs,nextjs,tailwind,nestjs,fastapi)](https://skillicons.dev)
-
-<h3>Database & ORM</h3>
-
-[![My Skills](https://skillicons.dev/icons?i=mongo,mysql,postgres,firebase,prisma,redis)](https://skillicons.dev)
-
-<h3>DevOps Tools & Cloud</h3>
-
-[![My Skills](https://skillicons.dev/icons?i=docker,linux,postman,gcp,cloudflare)](https://skillicons.dev)
+Want descriptive lookup? </br>
+https://ajaymandal.vercel.app/
