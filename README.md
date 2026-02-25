@@ -4,4 +4,4 @@
 -🔭 Currently, I am working remotely with an AI-agent driven startup
 
 Want descriptive lookup? </br>
-https://ajaymandal.vercel.app/
+[ajaymandal.com](https://www.ajaymandal.com)
